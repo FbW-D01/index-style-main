@@ -10,12 +10,3 @@ Contain:
 > main.js </br>
 > README.md </br>
 > .gitignore </br>
-
-https://gael-src.github.io/index-style-main
-
-</br>
-</br>
-
-#### My Personal Homepage:
-
-https://gael-src.github.io/
